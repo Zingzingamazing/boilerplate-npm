@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Zing"
+	"author": "Zing",
+	"description": "THIS IS A AWESOME PLACE"
 
 }
