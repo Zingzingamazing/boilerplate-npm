@@ -13,6 +13,9 @@
 	},
 	"author": "Zing",
 	"description": "THIS IS A AWESOME PLACE",
-	"keywords": ["freecodecamp", "Node.js"]
+	"keywords": ["freecodecamp", "Node.js"],
+	"license": "MIT",
+	"version": "1.0.0"
+
 
 }
